@@ -3,7 +3,7 @@
 - C++ Systems
 - Low Latency, High Performance engineering.
 - Math
-- Some Rust and Go
+- Some Rust, Go and CUDA
 
 ### Currently Working on:
 - [Axon, deep learning in C++](https://github.com/51ddhesh/axon)
@@ -12,6 +12,6 @@
 
 ---
 
-Check out my blog [here](https://51ddhesh.github.io/blog)
+Check out my [blog](https://51ddhesh.github.io/blog).
 
-Contact: [X](https://x.com/51ddhesh), [personal website](https://51ddhesh.github.io)
+Find me here: [X](https://x.com/51ddhesh), [personal website](https://51ddhesh.github.io).
